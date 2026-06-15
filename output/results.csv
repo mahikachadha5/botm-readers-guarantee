@@ -1,0 +1,133 @@
+ticket_id,member_id,classification,action,db_l12m_requests,db_last_request_date,model_sincerity,reason,drafted_response
+T0001,M00017,eligible_request,auto_issue_coupon,0,,genuine,"Under both caps (0/3 in last 12mo, none this month); valid request.","Hi there,
+
+We're sorry to hear that *Bright Hollow* wasn't the right fit for you. We appreciate you sharing your experience with it.
+
+The good news is that your Reader's Guarantee credit has been applied for *Bright Hollow*. You should see it reflected in your account and ready to use toward your next selection.
+
+We hope your next pick is a much better match for your reading taste.
+
+The BOTM Team"
+T0002,M00045,eligible_request,escalate_to_human,0,,genuine,"eligible_request, but member has multiple guarantee requests in this batch (T0002, T0017); only one is allowed per calendar month — needs human reconciliation.","Hi there,
+
+Thank you for reaching out. We've received your Reader's Guarantee request for *The Lantern Room* and our customer service team will review your message and follow up within a couple of business days.
+
+We hope you're feeling back to yourself and finding great reads again soon.
+
+The BOTM Team"
+T0003,M00095,eligible_request,escalate_to_human,0,,genuine,"DB shows the member under cap, but they state they already used the guarantee this month; the snapshot may not yet reflect an in-month request — verify before issuing.","Hi there,
+
+Thank you for reaching out. We're sorry to hear that *The Memory Theatre* wasn't the right fit for you.
+
+Your request regarding this title has been passed along to our customer service team, who will review the details and follow up with you within a couple of business days.
+
+The BOTM Team"
+T0004,M00073,eligible_request,escalate_to_human,0,,genuine,"eligible_request, but member has multiple guarantee requests in this batch (T0004, T0012); only one is allowed per calendar month — needs human reconciliation.","Hi there,
+
+Thank you for reaching out. We've received your Reader's Guarantee request for your May book, and our customer service team will review your message and follow up with you within a couple of business days.
+
+The BOTM Team"
+T0005,M00061,eligible_request,auto_issue_coupon,0,,genuine,"Under both caps (0/3 in last 12mo, none this month); valid request.","Hi there,
+
+We're sorry to hear that *The Astronomer's Wife* wasn't the right fit for you. Your Reader's Guarantee credit has been applied for that title.
+
+We appreciate you sharing your feedback — it's genuinely noted. We hope your next selection connects with you in a more meaningful way.
+
+The BOTM Team"
+T0006,M00002,other,escalate_to_human,0,,genuine,Not a guarantee request (issue_type=info); route to the info team.,"Hi there,
+
+Thank you for reaching out. Yes, the Reader's Guarantee is a real program — our customer service team will be happy to review your message and follow up with details specific to your account within a couple of business days.
+
+The BOTM Team"
+T0007,M00006,other,escalate_to_human,1,3/20/26,genuine,Not a guarantee request (issue_type=fulfillment); route to the fulfillment team.,"Hi there,
+
+We're sorry to hear your May book arrived in that condition. Our customer service team will review your request and follow up with you within a couple of business days.
+
+Thank you for reaching out, and we appreciate your patience.
+
+The BOTM Team"
+T0008,M00204,annual_cap_violation,auto_deny_with_explanation,3,3/17/26,neutral,At annual cap (3/3 in last 12mo); request denied per the rolling-12-month limit (no sincere appeal for an exception).,"Hi there,
+
+Thank you for reaching out. We're sorry to hear that *Bright Hollow* wasn't the right fit for you.
+
+Unfortunately, we're unable to approve this Reader's Guarantee request. The Reader's Guarantee is limited to 3 uses per rolling 12 months, and that limit has been reached on your account.
+
+We hope your upcoming selections are a better match for your reading taste.
+
+The BOTM Team"
+T0009,M00499,eligible_request,auto_issue_coupon,0,,neutral,"Under both caps (0/3 in last 12mo, none this month); valid request.","Hi there,
+
+We're sorry to hear that this month's selection wasn't the right fit for you. Your Reader's Guarantee credit has been applied to your account.
+
+We hope your next pick is a better match for your reading taste.
+
+The BOTM Team"
+T0010,M00003,eligible_request,auto_issue_coupon,0,,neutral,"Under both caps (0/3 in last 12mo, none this month); valid request.","Hi there,
+
+We're sorry to hear that *The Glass Orchard* wasn't the right fit for you. We've gone ahead and applied the Reader's Guarantee credit to your account.
+
+We hope your next selection is a better match for your reading taste.
+
+The BOTM Team"
+T0011,M00149,other,escalate_to_human,1,3/13/26,genuine,Not a guarantee request (issue_type=fulfillment); route to the fulfillment team.,"Hi there,
+
+We're sorry to hear your box arrived with the incorrect book — we understand you selected *The Lantern Room* and received *Salt and Honey* instead.
+
+Our customer service team will review your shipment and follow up with you within a couple of business days to get this sorted out.
+
+The BOTM Team"
+T0012,M00073,eligible_request,escalate_to_human,0,,neutral,"eligible_request, but member has multiple guarantee requests in this batch (T0004, T0012); only one is allowed per calendar month — needs human reconciliation.","Hi there,
+
+We're sorry to hear that *The Cartographer's Daughter* wasn't the right fit for you. Our customer service team will review your request and follow up within a couple of business days.
+
+The BOTM Team"
+T0013,M00087,eligible_request,auto_issue_coupon,0,,neutral,"Under both caps (0/3 in last 12mo, none this month); valid request.","Hi there,
+
+We're sorry to hear that *Soft Country* wasn't the right fit for you. Your Reader's Guarantee credit has been applied to your account for that title.
+
+We hope your next selection is a better match for your reading taste.
+
+The BOTM Team"
+T0014,M00020,other,escalate_to_human,0,,genuine,Not a guarantee request (issue_type=cancellation); route to the cancellation team.,"Hi there,
+
+Thank you for reaching out, and we're sorry to hear the recent selections haven't been the right fit for you. We want to make sure your question is handled thoughtfully, so we're passing this along to our customer service team to review and follow up with you within a couple of business days.
+
+The BOTM Team"
+T0015,M00179,eligible_request,auto_issue_coupon,0,,genuine,"Under both caps (0/3 in last 12mo, none this month); valid request.","Hi there,
+
+We're sorry to hear that *Counting Backwards from Ten* wasn't the right fit for you. We've gone ahead and applied your Reader's Guarantee credit for that title to your account.
+
+We hope your next selection is a better match for your reading preferences.
+
+The BOTM Team"
+T0016,M00141,other,escalate_to_human,0,,neutral,Not a guarantee request (issue_type=info); route to the info team.,"Hi there,
+
+Thank you for reaching out. Our customer service team will review your account and follow up with the information you've requested within a couple of business days.
+
+The BOTM Team"
+T0017,M00045,eligible_request,escalate_to_human,0,,genuine,"eligible_request, but member has multiple guarantee requests in this batch (T0002, T0017); only one is allowed per calendar month — needs human reconciliation.","Hi there,
+
+We're sorry to hear that *The Inheritance of Wings* wasn't the right fit for you. We've received your message, and our customer service team will review your request and follow up within a couple of business days.
+
+The BOTM Team"
+T0018,M00032,eligible_request,auto_issue_coupon,0,,entitled,"Under both caps (0/3 in last 12mo, none this month); valid request.","Hi there,
+
+We're sorry to hear that *Other People's Weddings* wasn't the right fit for you. Your Reader's Guarantee credit for that title has been applied to your account and is ready to use toward your next selection.
+
+We hope your next pick is a much better match.
+
+The BOTM Team"
+T0019,M00148,other,escalate_to_human,3,12/9/25,neutral,Not a guarantee request (issue_type=cancellation); route to the cancellation team.,"Hi there,
+
+Thank you for reaching out, and we're glad you're considering returning to BOTM.
+
+Your question about how Reader's Guarantee history is handled upon reactivation is a good one, and we want to make sure you get an accurate answer. Our customer service team will review your message and follow up with you within a couple of business days.
+
+We hope to have a helpful answer for you soon.
+
+The BOTM Team"
+T0020,M00499,other,escalate_to_human,0,,genuine,Not a guarantee request (issue_type=billing); route to the billing team.,"Hi there,
+
+Thank you for reaching out. We're sorry for the confusion regarding the charge on your account. Our customer service team will review what occurred and follow up with you within a couple of business days.
+
+The BOTM Team"
